@@ -1,3 +1,6 @@
+# Autor Original: devgabrielleon-collab
+# Script para listagem de VMs desligadas em ambiente Azure
+
 import os
 import sys
 from azure.identity import DefaultAzureCredential
